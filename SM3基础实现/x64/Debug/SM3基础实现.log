@@ -1,0 +1,8 @@
+﻿  SM3基础实现.cpp
+C:\Users\lenovo\Desktop\SM3基础实现\SM3基础实现.cpp(44,25): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\SM3基础实现\SM3基础实现.cpp(64,31): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\SM3基础实现\SM3基础实现.cpp(67,26): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\SM3基础实现\SM3基础实现.cpp(106,33): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\SM3基础实现\SM3基础实现.cpp(197,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\SM3基础实现\SM3基础实现.cpp(305,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  SM3基础实现.vcxproj -> C:\Users\lenovo\Desktop\SM3基础实现\x64\Debug\SM3基础实现.exe
